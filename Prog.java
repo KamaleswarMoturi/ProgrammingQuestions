@@ -60,16 +60,16 @@ public class Prog {
 				}
 			}	
 
-					
-				
-			
-				
-			}
-			
-			//System.out.println(index);
 			for(int i=0;i<count;i++) {
 				System.out.print(arr[i]);
-			}
+			}	
+				
+			
+				
+			}else{System.out.println("it is already highest possible number");}
+			
+			
+			
 			
 	
 		
